@@ -2,3 +2,5 @@
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/5STAR-255x140.png?itok=as2euNN3" tvg-name="5STAR"  group-title="Entertainment",5STAR
 https://list.iptvcat.com/my_list/s/981a1b16300fe40a10f498450ed574a2.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",360 TV SD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8?checkedby:iptvcat.com
